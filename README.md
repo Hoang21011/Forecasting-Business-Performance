@@ -1,11 +1,4 @@
-# Forecasting-Business-Performance
-Forecasting fashion retail sales using SARIMAX and LSTM models on time series data.
-
-Here's a clean and professional `README.md` based on your **Business Forecasting** slide deck:
-
----
-
-# Business Forecasting - Solid Sphere
+# Business Forecasting
 
 ## 📌 Project Overview
 
